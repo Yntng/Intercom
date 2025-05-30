@@ -18,6 +18,8 @@ Follow these steps to add and configure a new port and extension number in Dinst
 
 - Assign the **Extension Number** to the available port.
 
+- Enter the **New Extension Number** you’ve planned in the placeholder of **Primary SIP User ID and Primary Authenticate ID** (e.g., `303`).
+
 ![Alt text](images/Choose%20Port%20in%20Dinstar.png)
 
 - Click **Save**.
@@ -79,7 +81,7 @@ The extension is now added and ready for SIP configuration or registration with 
 ### 10. Go to IP/SIP Settings
 - In the port settings, go to the **IP/SIP** tab.
 
-![Alt text](images/)
+![Alt text](images/Subscriber%20details%20and%20IP%20SIP.png)
 
 ### 11. Open SIP Parameters
 - Click on the **SIP Parameter** section.
@@ -96,11 +98,11 @@ The extension is now added and ready for SIP configuration or registration with 
 
 ## 🔁 Finalize Dinstar Configuration
 
-### 13. Return to Dinstar Port
+### 13. Return to Dinstar
 - Go back to the port settings in **Dinstar**.
 
 ### 14. Reopen the New Port added
-- Select the port, **Modify the newly created port again** for further configuration.
+- Select the port, **Modify the newly created port** for further configuration.
 
 ![Alt text](images/Select%20Port%20in%20Dinstar.png)
 
